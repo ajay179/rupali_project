@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<style><?php $this->load->view('admin/bars/style.css');?></style>
+<style><?php $this->load->view('admin/style.css');?></style>
 
 <nav id="nav">
     <div class="wrapper">
